@@ -30,3 +30,4 @@
   <a href="https://www.linkedin.com/in/renan-torres-121a06106/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+![Github Snake Animation](https://user-images.githubusercontent.com/50845287/198006983-1a7c22e4-633f-41c5-b5f7-201278b1700d.svg)
